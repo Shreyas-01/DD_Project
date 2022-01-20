@@ -1,5 +1,5 @@
 ## Sample use:
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Shreyas-01/DD_Project/blob/main/main%20circuit.png?raw=true)
 
 ## Problem statement:
 The requirement of the given design problem is to input alphanumeric characteristics and display the
